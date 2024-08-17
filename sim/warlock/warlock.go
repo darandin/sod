@@ -24,7 +24,6 @@ const (
 	SpellCode_WarlockCorruption
 	SpellCode_WarlockCurseOfAgony
 	SpellCode_WarlockCurseOfDoom
-	SpellCode_WarlockDeathCoil
 	SpellCode_WarlockDrainLife
 	SpellCode_WarlockDrainSoul
 	SpellCode_WarlockHaunt
